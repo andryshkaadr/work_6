@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    font-family: system-ui, "Roboto", sans-serif;
+}
+.content {
+    background-color: #C4DFE6;
+    width: 100vw;
+    height: 100vh;
+}
+
+.content-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 30px;
+}
+
+h1 {
+    color: #003B46;
+    font-weight: 400;
+}
+
+h3 {
+    margin-top: 20px;
+    font-weight: 400;
+    color: #07575B;
+}
+
+ul {
+    margin-top: 10px;
+    list-style: none;
+    color: #07575B;
+}
+
