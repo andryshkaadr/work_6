@@ -49,3 +49,18 @@ img {
     margin: 10px 10px;
 }
 
+button {
+    box-sizing: border-box;
+    cursor: pointer;
+    border: 1px solid #003B46;
+    background-color: #66A5AD;
+    padding: 10px 20px;
+}
+
+a {
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-decoration: none;
+}
+
